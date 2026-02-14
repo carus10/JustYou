@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustYOU</string>
+
+    <!-- Navigasyon -->
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_telkin">Telkin</string>
+    <string name="nav_istatistik">İstatistik</string>
+    <string name="nav_ayarlar">Ayarlar</string>
+
+    <!-- Ana Sayfa -->
+    <string name="bilgi">Bilgi</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="su_ekle">Su Ekle (+250ml)</string>
+    <string name="kalori_ekle">Kalori Ekle</string>
+    <string name="adim_ekle">Adım Ekle (+1000)</string>
+
+    <!-- Ayarlar Ekranı -->
+    <string name="gunluk_hedefler">Günlük Hedefler</string>
+    <string name="su_ml">Su (ml)</string>
+    <string name="kalori_kcal">Kalori (kcal)</string>
+    <string name="adim">Adım</string>
+    <string name="telkinler">Telkinler</string>
+    <string name="olumsuz_dusunceler">Olumsuz Düşünceler</string>
+    <string name="telkin_ekle">Telkin Ekle</string>
+    <string name="ood_ekle">OOD Ekle</string>
+    <string name="metin_girin">Metin girin</string>
+    <string name="ekle">Ekle</string>
+    <string name="iptal">İptal</string>
+    <string name="sil">Sil</string>
+    <string name="bos_metin_uyari">Boş metin eklenemez</string>
+
+    <!-- Telkin Ekranı -->
+    <string name="telkin_benimseme">Telkin Benimseme</string>
+    <string name="menu">Menü</string>
+    <string name="egitim_icerigi">Eğitim İçeriği</string>
+    <string name="challenge">Challenge</string>
+    <string name="telkin_bos_mesaj">Henüz telkin eklenmemiş.\nAyarlar\'dan telkin ekleyebilirsiniz.</string>
+
+    <!-- İstatistik Ekranı -->
+    <string name="istatistikler">İstatistikler</string>
+    <string name="haftalik_ozet">Haftalık Özet</string>
+    <string name="su">Su</string>
+    <string name="kalori">Kalori</string>
+    <string name="ml_gun">ml/gün</string>
+    <string name="kcal_gun">kcal/gün</string>
+    <string name="adim_gun">adım/gün</string>
+
+    <!-- Bilgi Ekranı -->
+    <string name="uygulama_hakkinda">Uygulama Hakkında</string>
+    <string name="geri">Geri</string>
+    <string name="kullanim_kilavuzu">Kullanım Kılavuzu</string>
+
+    <!-- Challenge Ekranı -->
+    <string name="ilerleme">İlerleme</string>
+
+    <!-- Genel -->
+    <string name="tamam">Tamam</string>
+    <string name="kaydet">Kaydet</string>
+</resources>
